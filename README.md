@@ -1,9 +1,16 @@
 # IONLLERY | Ionic Gallery App
+ERIKA CAROLINA ALVARADO MORALES
 
 
+Aplicacion movil con camara y android studio
+https://github.com/alvaradoCarolina/Camera_android/assets/132953183/c205bc35-b220-4eb0-a50b-16c89bc4bd0d
+https://github.com/alvaradoCarolina/Camera_android/assets/132953183/c5765a27-67a3-4d32-b663-23654147e131
+![WhatsApp Image 2024-05-17 at 2 53 05 AM](https://github.com/alvaradoCarolina/Camera_android/assets/132953183/99a1b706-e23a-47f7-a1b7-226d82fc66f4)
+![WhatsApp Image 2024-05-17 at 2 53 07 AM](https://github.com/alvaradoCarolina/Camera_android/assets/132953183/2093e124-ceba-486a-86a2-5f87a9dccfb9)
 
+Splash creen:
 
-
+https://github.com/alvaradoCarolina/Camera_android/assets/132953183/0a92d469-3cfd-4efc-bc6d-065eb03f4c7b
 
 
 
